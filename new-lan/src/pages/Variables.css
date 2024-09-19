@@ -1,0 +1,52 @@
+/* src/components/CLessonVariables.css */
+.lesson-container {
+    padding: 50px;
+}
+
+h1, h2 {
+    color: #2c3e50;
+}
+
+p, ul {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+pre {
+    background: #ecf0f1;
+    padding: 10px;
+    border-radius: 5px;
+}
+.img{
+    width: 100%;
+    padding-top: 40px;
+}
+
+.img1{
+    width: 100%;
+    padding-top: 20px;
+}
+.button1{
+    background-color: #007bff; 
+    border: none;
+    border-radius: 5px;
+    width: 100px;
+    float: right;
+    text-align: center;
+    padding-top: 20px;
+    justify-content: space-around;
+  }
+
+  .button1:hover{
+    background-color: #0056b3;
+  }
+  
+  .learn{
+    color: black;
+    background-color: #e4e7e8;
+    width: 150px;
+    float: left;
+  }
+  .learn:hover{
+    background-color: rgb(197, 197, 197);
+  }

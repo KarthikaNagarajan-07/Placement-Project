@@ -1,0 +1,52 @@
+.score-page {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .score-page h1 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .score-page ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .score-page li {
+    margin: 20px 0;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .score-page li h3 {
+    margin: 0;
+    color: #333;
+  }
+  
+  .score-page li p {
+    font-size: 18px;
+    margin: 10px 0;
+  }
+  
+  .score-page button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .score-page button:hover {
+    background-color: #0056b3;
+  }
+  
